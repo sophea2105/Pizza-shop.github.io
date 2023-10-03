@@ -347,7 +347,7 @@ html{
     width: 500px;
     position: absolute;
     left: 60%;
-    top:490vh;
+    top:480vh;
 }
 .drink .pizza:hover img{
     transform: scale(1.1);
